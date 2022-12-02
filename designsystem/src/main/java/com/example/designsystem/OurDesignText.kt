@@ -8,5 +8,5 @@ import androidx.compose.ui.graphics.Color
 
 @Composable
 fun OurDesignText() {
-    Text("My design text!", modifier = Modifier.background(Color.Blue))
+    Text("My design text!", modifier = Modifier.background(Color.Green))
 }

@@ -48,7 +48,7 @@ afterEvaluate {
 
                 groupId = 'com.github.nilsi'
                 artifactId = 'designsystem'
-                version = '1.0'
+                version = '1.2'
             }
         }
     }

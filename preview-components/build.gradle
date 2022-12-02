@@ -63,5 +63,5 @@ dependencies {
 
     // implementation project(":designsystem")
 
-    implementation "com.github.nilsi:MavenDesignSystem:1.0"
+    implementation "com.github.nilsi:MavenDesignSystem:1.1"
 }
